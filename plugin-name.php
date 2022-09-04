@@ -10,10 +10,10 @@
  * @package Plugin_Name
  *
  * @wordpress-plugin
- * Plugin Name:     Plugin Name
+ * Plugin Name:     WP Challenger - Dev : Matías Larriqueta 
  * Description:     This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:         0.0.1
- * Author:          Your Name
+ * Author:          Matías Larriqueta
  * Author URI:      https://www.example.com
  * License:         GPL-2.0+
  * License URI:     http://www.gnu.org/licenses/gpl-2.0.txt
